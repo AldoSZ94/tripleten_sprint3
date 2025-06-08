@@ -1,6 +1,6 @@
 # 🎵 Proyecto: Análisis de Hábitos de Escucha en Streaming
 
-En este proyecto realicé un análisis de datos de transmisión de música online para explorar y comprender los hábitos de escucha de usuarios y usuarias en dos ciudades: **Springfield** y **Shelbyville**.
+Este es mi proyecto perteneciente al **Sprint N° 3** de mi formación como **Analista de Datos Jr. en TripleTen**. En este proyecto realicé un análisis de datos de transmisión de música online para explorar y comprender los hábitos de escucha de usuarios y usuarias en dos ciudades: **Springfield** y **Shelbyville**.
 
 ---
 
